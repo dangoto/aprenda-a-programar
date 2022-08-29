@@ -1,5 +1,0 @@
-console.log(daniel gualberto teixeira)
-console.log(git.hub.dgt@gmail.com)
-console.log(sem emprego)
-console.log(15 anos)
-console.log(inglaterra)
